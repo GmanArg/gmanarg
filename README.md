@@ -1,65 +1,78 @@
+# ¡Hola, soy German! 👋 
+### Analista de Datos | Power BI | SQL | Python | Excel
 
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/lautaro-portillo-7589451a7](https://www.linkedin.com/in/fusaro-german/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
-<p align="center">
-    Analista de Datos | Power BI | SQL | Python | DAX | Excel
-</p>
 
-# About Me
-Hola soy German ! :wave: 
+---
 
-I'm Tanay Toshniwal, a Full Stack Developer in MEAN (MongoDB-Express.js-Angular-Node.js) and MERN(MongoDB-Express.js-React.js-Node.js) Stack, an App Developer and a part-time Musician.
+🚀 Actualmente me encuentro en búsqueda de mi **primera oportunidad profesional en análisis de datos** para seguir creciendo y aplicar todo lo que he aprendido.
 
-I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engineering from SRM Institute of Science and Technology, Chennai. I love to learn about how things work and try new tools and technologies. I love to share time with developer communities and events.
+---
 
-# Skills
-## Programming Languages:
+## 🔍 ¿Qué Hago?
+Ayudo a transformar datos crudos en insights valiosos para respaldar la toma de decisiones informadas. Me apasiona construir dashboards, explorar grandes volúmenes de datos y convertir información compleja en historias visuales y claras.
 
-<img src="https://img.shields.io/badge/C-lightgrey" alt="C" /> <img src="https://img.shields.io/badge/C++-ff69b4" alt="C++" /> <img src="https://img.shields.io/badge/Java SE-important" alt="Java SE" /> <img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" /> <img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" /> <img src="https://img.shields.io/badge/TypeScript-yellow" alt="TypeScript" />
+- 📊 Extraigo insights clave y construyo dashboards interactivos en **Power BI** para potenciar la toma de decisiones.
+- ⚡ Utilizo **Python** y **SQL** para limpiar, analizar y modelar datos, optimizando procesos de negocio.
+- 📈 Diseño y automatizo reportes estratégicos que responden a las preguntas clave del negocio.
 
-<!-- * C/C++
-* Java SE
-* Python 3
-* JavaScript (ES6)
-* TypeScript -->
+---
 
-## Frameworks:
+## 🛠️ Stack Tecnológico
 
-<details>
-    <summary>view list...</summary>
-    <ul>
-        <li>MEAN</li>
-        <li>MERN</li>
-        <li>Angular</li>
-        <li>React</li>
-        <li>React Native</li>
-        <li>Redux</li>
-        <li>Node.js</li>
-        <li>Ionic 3 & 4</li>
-        <li>Mongo DB</li>
-        <li>Android</li>
-    </ul>
-</details>
+| Herramientas de BI | Bases de Datos | Programación | Otras Habilidades |
+| :---: | :---: | :---: | :---: |
+| Power BI | SQL Server | Python (Pandas, NumPy) | Procesos ETL |
+| Excel | MySQL | Seaborn / Matplotlib | DAX |
+| Google Spreadsheets | PostgreSQL | Java (Básico) | Consumo de APIs |
 
-## Database:
+---
 
-<details>
-    <summary>view list...</summary>
-    <ul>
-        <li>MongoDB</li>
-        <li>MySQL</li>
-    </ul>
-</details>
+## 🚀 Proyectos Destacados
 
-# Want to know more?
+### 📌 [NBAdVantage – Análisis Avanzado de la NBA](https://github.com/lautaroportillo2115/NBAdVantage)
+Análisis de rendimiento de equipos y jugadores de la NBA. Incluye limpieza de datos con Python, modelado en SQL y visualizaciones interactivas en Power BI para generar insights sobre eficiencia ofensiva y defensiva, y detectar oportunidades de mejora.
 
-<!-- My Portfolio: [https://tanaytoshniwal.me](https://tanaytoshniwal.me) -->
+---
 
-[<img alt="portfolio link" src="https://img.shields.io/badge/My%20Portfolio-https%3A%2F%2Ftanaytoshniwal.me-brightgreen" />](https://tanaytoshniwal.me) 
+### 📌 [BioGenesis – Análisis Estratégico de COVID-19]
+Dashboard de seguimiento del impacto del COVID-19 basado en fuentes públicas. Incluye procesamiento de datos con Python y visualización en Power BI para explorar patrones y comportamientos geográficos.
 
-[<img alt="portfolio link" src="https://img.shields.io/badge/My%20Blogs-https%3A%2F%2Ftanaytoshniwal.com-red" />](https://tanaytoshniwal.com) 
+---
 
-[<img alt="resume link" src="https://img.shields.io/badge/My%20CV-Download%20my%20Resume-blue" />](https://tanaytoshniwal.me/assets/tanay-toshniwal-resume.pdf)
+### 📌 [Adventure Works Cycles – Análisis de Ventas]
+Estudio del rendimiento comercial de la empresa ficticia Adventure Works. Visualización de KPIs clave, productos más vendidos, análisis por región y sugerencias para recuperar clientes inactivos.
 
-[<img alt="email" src="https://img.shields.io/badge/Email%20me-tanaytoshniwal98%40gmail.me-orange" />](mailto:tanaytoshniwal98@gmail.me) 
+---
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/tanaytoshniwal?label=Follow%20Me&style=social" />
+## 🎓 Formación Académica
+- **Bootcamp Intensivo en Análisis de Datos** (700+ horas) – **Henry**
+
+---
+
+## 💡 Habilidades Blandas
+Adaptabilidad | Empatía | Comunicación Efectiva | Trabajo en Equipo | Pensamiento Crítico
+
+---
+
+## 🧰 Tecnologías y Herramientas
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+---
+
+## 📬 Contacto
+
+- 📧 Email: **fusarogerman@gmail.com**
+- 💼 LinkedIn: [German-Fusaro](https://www.linkedin.com/in/fusaro-german/)
+- 📁 GitHub: [gmanarg](https://github.com/gmanarg)
+- 📍 Ubicación: Buenos Aires, Argentina
+---

@@ -1,12 +1,11 @@
-<p align="center">
-    <img src="https://tanaytoshniwal.me/assets/images/nametag.png" width="350px" alt="tanay toshniwal" />
+
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tanaytoshniwal&show_icons=true&count_private=true&theme=dark"/>
+    Analista de Datos | Power BI | SQL | Python | DAX | Excel
 </p>
 
 # About Me
-Hi folks :wave: 
+Hola soy German ! :wave: 
 
 I'm Tanay Toshniwal, a Full Stack Developer in MEAN (MongoDB-Express.js-Angular-Node.js) and MERN(MongoDB-Express.js-React.js-Node.js) Stack, an App Developer and a part-time Musician.
 

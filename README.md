@@ -9,7 +9,7 @@
 
 ---
 
-🚀 Actualmente me encuentro en búsqueda de mi **primera oportunidad profesional en análisis de datos** para seguir creciendo y aplicar todo lo que he aprendido.
+🚀 Profesional con sólida experiencia en análisis de datos y automatización de procesos, especializado en el uso de herramientas como Power BI, Python, SQL y plataformas de nube como Google Cloud y BigQuery. Durante mi último puesto, lideré la optimización de tareas mediante automatizaciones en Excel, lo que permitió mejorar la eficiencia operativa y la gestión de información. En los últimos meses, me enfoqué en potenciar mi perfil adquiriendo nuevas tecnologías y profundizando mis conocimientos en data analytics. Destaco por mi capacidad de adaptación, pensamiento analítico y habilidades para el trabajo en equipo, así como por una comunicación efectiva y orientación a resultados. Estoy listo para aplicar y demostrar estas nuevas competencias, aportando valor a proyectos de análisis, visualización y gestión de datos.
 
 ---
 

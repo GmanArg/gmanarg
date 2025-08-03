@@ -2,7 +2,7 @@
 ### Analista de Datos | Power BI | SQL | Python | Excel
 
 <p align="left"> 
-  <a href="https://www.linkedin.com/in/lautaro-portillo-7589451a7](https://www.linkedin.com/in/fusaro-german/" target="_blank">
+  <a href="https://www.linkedin.com/in/fusaro-german/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -34,7 +34,7 @@ Ayudo a transformar datos crudos en insights valiosos para respaldar la toma de 
 
 ## 🚀 Proyectos Destacados
 
-### 📌 [NBAdVantage – Análisis Avanzado de la NBA](https://github.com/lautaroportillo2115/NBAdVantage)
+### 📌 [NBA StatVision – Análisis Avanzado de la NBA profundizando en lesiones].
 Análisis de rendimiento de equipos y jugadores de la NBA. Incluye limpieza de datos con Python, modelado en SQL y visualizaciones interactivas en Power BI para generar insights sobre eficiencia ofensiva y defensiva, y detectar oportunidades de mejora.
 
 ---
